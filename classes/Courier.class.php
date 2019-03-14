@@ -36,9 +36,7 @@ class Courier {
 		// let's create the headers to show where the email 
 		// originated from.
 		$headers[] = 'From: '.$Email->sender;
-		// $headers[] = 'Reply-To: '.$Email->sender;
-		$headers[] = 'Reply-To: basily.judanov.85@gmail.com'; 
-		
+		$headers[] = 'Reply-To: '.$Email->sender;
 		
 		// Subjects are tricky.  Even some 
 		// sophisticated email clients don't

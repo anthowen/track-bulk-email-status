@@ -19,7 +19,7 @@
 
 
     // load the image
-    $image = 'images/image.jpg';
+    $image = 'images/image.png';
     // getimagesize will return the mimetype for this image
     $imageinfo = getimagesize($image);
     $image_mimetype = $imageinfo['mime'];
