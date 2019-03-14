@@ -12,5 +12,5 @@ Widely used in email marketing, I just want to send bulk emails with certain tem
   It is the most efficient and fastest way of tracking emails, but on the other hand, it has some downsides.
   
      Downsides
-      - Some email clients doesn't support image displaying, so, in that situation, image is not requested, and this may result some unwanted moments.
-      - Mostly, sending bulk emails can be considered as spams, so we need to find a way round to by pass this issue.
+      - Some email clients don't support image displaying because of security issues, so in that situation, image load is not requested, and this may result some unwanted moments.
+      - Mostly, sending bulk emails can be considered as spam activity, so we need to adapt a measure to by pass this issue.
