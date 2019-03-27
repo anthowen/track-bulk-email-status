@@ -13,4 +13,4 @@ Widely used in email marketing, I just want to send bulk emails with certain tem
   
      Downsides
       - Some email clients don't support image displaying because of security issues, so in that situation, image load is not requested, and this may result some unwanted moments.
-      - Mostly, sending bulk emails can be considered as spam activity, so we need to adapt a measure to by pass this issue.
+      - Mostly, sending bulk emails can be considered as spam activity, so we need to adapt a measure to bypass this issue.
